@@ -1,2 +1,2 @@
 # display the output
-print("New Pythong file")
+print("New Python file")
